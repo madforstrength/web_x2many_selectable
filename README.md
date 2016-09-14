@@ -1,7 +1,7 @@
 # web_one2many_selectable
 This widget adds the capability for selecting multiple records in x2many fields and calls a python function with the ids as argument.
 
-Its really easy to use, just add widget=x2many_selectable on any x2many field.
+Its really easy to use, just add **widget=x2many_selectable** on any x2many field.
 
 e.g.
 
